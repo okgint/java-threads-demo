@@ -1,4 +1,4 @@
-package org.ogin.thread.parser;
+package org.ogin.thread.parser.paragraphV1;
 
 /**
  * @author ogin
